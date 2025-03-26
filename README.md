@@ -1,16 +1,14 @@
-## Hi there 👋
+## Introduction
+My name is Aniyah Hall and I am 23 years old. I will be graduating from Bowie State University in May of 2025 with a bachelors degree in Computer Technology with a concentration of health technology and cybersecurity. I have been born and raised in Baltimore, Maryland. I am passionate about security, cryptanalysis and protecting sensitive data.
+How to reach me: aniyahhall1231@gmail.com
 
-<!--
-**Aniyah1231/Aniyah1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills 
+Languages: Python, Java
+Systems: Windows: Windows 10, Windows 11, Ubuntu, Kali
+Applications: Microsoft Word, Microsoft Access, Microsoft Excel
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects & Portfolio
+Blood Pressure Monitoring System
+Network Traffic Anomaly Detection for Healthcare Security
+Protection of Sensitive Data with Zero Trust Model & Machine Learning
+Porfolio: 
